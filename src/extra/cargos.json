@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "deputado federal",
+    "numDigitos": 4,
+    "legenda": 2
+  },
+  {
+    "nome": "deputado estadual",
+    "numDigitos": 5,
+    "legenda": 2
+  },
+  {
+    "nome": "governador",
+    "numDigitos": 2
+  },
+  {
+    "nome": "presidente",
+    "numDigitos": 2
+  }
+]
